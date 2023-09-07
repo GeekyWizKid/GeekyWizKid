@@ -4,6 +4,8 @@ Full Stack Developer 🔧 & PM 🧠
 
 Addicted to the Baldur's Gate 🎲
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyWizKid&layout=compact)](https://github.com/GeekyWizKid/github-readme-stats)
+
 ![GeekyWizKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekyWizKid&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![GeekyWizKid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeekyWizKid&theme=github-compact	)](https://github.com/GeekyWizKid/github-readme-activity-graph)
