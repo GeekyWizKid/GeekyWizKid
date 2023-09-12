@@ -13,4 +13,4 @@ Addicted to the Baldur's Gate 🎲
 GeekyWizKid/GeekyWizKid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,codepen,git,github,idea,java,javascript,linux,python,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cmake,cpp,gcp,git,gitlab,github,gradle,hibernate,idea,java,javascript,jenkins,linux,markdown,postgresql,python,redis,spring,vuejs,vscode&theme=light)](https://skillicons.dev)
