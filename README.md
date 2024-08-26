@@ -2,7 +2,7 @@
 
 Full Stack Developer 🔧 & PM 🧠
 
-Addicted to the Baldur's Gate 🎲
+Addicted to the Black Myth Wukong 🐒
 
 ![GeekyWizKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekyWizKid)
 
