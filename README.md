@@ -2,7 +2,7 @@
 
 Full Stack Developer 🔧 & PM 🧠
 
-Addicted to the Black Myth Wukong 🐒
+Currently attempting to make a lightsaber ⚔️✨.
 
 ![GeekyWizKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekyWizKid)
 
