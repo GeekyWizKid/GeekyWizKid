@@ -1,7 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/GeekyWizKid/count.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GeekyWizKid)](https://github.com/GeekyWizKid/github-profile-trophy)
-
 Full Stack Developer 🔧 & PM 🧠
 
 Currently attempting to make a lightsaber ⚔️✨.
