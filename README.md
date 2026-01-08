@@ -2,7 +2,11 @@ Full Stack Developer 🔧 & PM 🧠
 
 Currently attempting to make a lightsaber ⚔️✨.
 
-![GeekyWizKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekyWizKid)
+<p align="center">
+  <a href="https://github.com/GeekyWizKid">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeekyWizKid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 [![GeekyWizKid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeekyWizKid&theme=github-compact	)](https://github.com/GeekyWizKid/github-readme-activity-graph)
 <!---
