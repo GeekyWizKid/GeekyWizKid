@@ -4,7 +4,7 @@ Currently attempting to make a lightsaber ⚔️✨.
 
 <p align="center">
   <a href="https://github.com/GeekyWizKid">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeekyWizKid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="80%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeekyWizKid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
