@@ -1,4 +1,4 @@
-name: Update activity graph
+name: Update profile cards
 on:
   schedule:
     - cron: '23 1 * * *'
@@ -17,11 +17,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 scripts/activity_graph.py
+      - name: Cache statistics card
+        run: python3 scripts/stats_card.py
       - name: Commit updated graph
         run: |
-          git add assets/activity.svg
+          git add assets/activity.svg assets/stats.svg
           if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Update GitHub activity graph'
+          git commit -m 'Update GitHub profile cards'
           git push
